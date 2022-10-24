@@ -1,0 +1,8 @@
+{
+  "type": "record",
+    "name": "weather",                  
+    "fields" : [
+        {"name": "temperature", "type": "float"},     
+        {"name": "status", "type": "string"} 
+        ]
+}
