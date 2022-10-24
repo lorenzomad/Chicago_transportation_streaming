@@ -4,6 +4,7 @@ In this project, I constructed a streaming event pipeline around Apache Kafka an
 
 Through this project, you will be able to monitor a website to watch trains move from station to station.
 
+<img width="1612" alt="ui" src="https://user-images.githubusercontent.com/106270843/197549641-6fc8d72a-7b57-4285-a5c0-09f55825ed97.png">
 
 
 
@@ -20,8 +21,8 @@ The following are required to complete this project:
 We are using Kafka and ecosystem tools like REST Proxy and Kafka Connect to to develop a dashboard displaying system status for Chicago train commuters.
 
 This is the architecture of the system:
+![diagram](https://user-images.githubusercontent.com/106270843/197549680-2c8122c7-74f3-405e-9642-6bb3d73fef57.png)
 
-![Project Architecture](images/diagram.png)
 
 ### Step 1: Created Kafka Producers
 
